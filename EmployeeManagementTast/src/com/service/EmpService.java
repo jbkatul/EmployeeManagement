@@ -10,7 +10,7 @@ public class EmpService {
 	
 	public Employee[] showAll()
 	{
-		Employee[] e1=d1.manyEmployee();;;
+		Employee[] e1=d1.manyEmployee();
 		return e1;
 	}
 	public Employee checkMaxSalary()
